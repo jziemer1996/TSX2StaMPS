@@ -10,4 +10,4 @@ Since both packages serve for the same, but with different SAR data, the functio
 5. Interferogram generation
 6. Stamps Export
 
-For further information see the tutorial attached.
+**Note**: This package is part of the Snap2StaMPS_v2 software for the automated preprocessing of Sentinel-1 Topsar and TerraSAR-X Stripmap data, which was presented at the FRINGE conference in September 2023. For further information see the Snap2Stamps repository (https://github.com/mdelgadoblasco/snap2stamps) or the tutorial attached.
