@@ -14,3 +14,7 @@ Since both packages serve for the same purpose, the functionality of Snap2StaMPS
 
 > **Note**:
 > This package is part of the Snap2StaMPS_v2 software for the automated preprocessing of Sentinel-1 Topsar and TerraSAR-X Stripmap data, which was presented at the FRINGE conference in September 2023. For further information see the Snap2Stamps repository (https://github.com/mdelgadoblasco/snap2stamps) or the tutorial attached.
+
+## References
+
+Identifying Deformation Drivers in Dam Segments Using Combined X- and C-Band PS Time Series (https://www.mdpi.com/2072-4292/17/15/2629)
